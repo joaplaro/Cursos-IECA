@@ -11,5 +11,5 @@ Este curso se impartió en el IECA (Instituto de Estadística y Cartografía de 
 
 En este curso vamos se presentan varias librerías de R, especialmente diseñadas para el trabajo en las fases centrales (tratamiento) del ciclo del dato. El objetivo es familiarizarse con las principales funciones que tienen programadas estas librerías. El curso tiene una vocación eminentemente práctica, así que seréis vosotros mismos los que tengáis que ir programando rutinas de R, que os permitirán filtrar casos, crear nuevas variables, conectaros a una base de datos externa y otras muchas operaciones habituales en el tratamiento de conjuntos de datos.
 
-Para acceder a los contenidos del mismo, dirígete a la wiki correspondiente: 
+Para acceder a los contenidos del mismo, dirígete a la wiki correspondiente: [**Wiki Curso Tratamiento de datos y programación con R**](https://github.com/joaplaro/Cursos-IECA/wiki/Tratamiento-de-datos-y-programaci%C3%B3n-con-R)
 
