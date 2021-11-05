@@ -1,7 +1,15 @@
-# Materiales-del-curso-Tratamiento-de-datos-con-R
+# Ciclo formativo en Ciencia de Datos con R
 
-Este repositorio contiene los materiales del curso "Tratamiento de conjuntos de datos y programación con R", que se impartirá en el IECA (Instituto de Estadística y Cartografía de Andalucía) a lo largo del mes de octubre de 2021.
+Este repositorio contiene 
+Para acceder a cada curso, se ha diseñado una wiki...
 
-En este repositorio encontrarás dos ficheros planos con los datos del censo ('DATOS_HP' el fichero de personas y hogares, 'DATOS_VE' el de viviendas y edificios). La fuente de la que proceden son los microdatos del censo que están disponibles en la página web del INE. El único tratamiento que se ha hecho de los mismos consiste en (1) filtrar las personas residentes en Andalucía y los edificios sitos en Andalucía y (2) seleccionar unas pocas características (variables), con el fin de hacer más legible el conjunto de datos. 
 
-Junto con eso, encontrarás una hoja de calc con los valores válidos de cada una de las variables seleccionadas, así como sus significados. Finalmente hay otros dos ficheros planos, que contienen el diseño de registro y, como dicen en 'El Señor de los Anillos', un fichero R para controlarlos a todos. 
+
+### Curso "Tratamiento de conjuntos de datos y programación con R"
+
+Este curso se impartió en el IECA (Instituto de Estadística y Cartografía de Andalucía) a lo largo del mes de octubre de 2021. 
+
+En este curso vamos se presentan varias librerías de R, especialmente diseñadas para el trabajo en las fases centrales (tratamiento) del ciclo del dato. El objetivo es familiarizarse con las principales funciones que tienen programadas estas librerías. El curso tiene una vocación eminentemente práctica, así que seréis vosotros mismos los que tengáis que ir programando rutinas de R, que os permitirán filtrar casos, crear nuevas variables, conectaros a una base de datos externa y otras muchas operaciones habituales en el tratamiento de conjuntos de datos.
+
+Para acceder a los contenidos del mismo, dirígete a la wiki correspondiente: 
+
