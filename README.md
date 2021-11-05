@@ -1,6 +1,7 @@
 # Ciclo formativo en Ciencia de Datos con R
 
-Este repositorio contiene 
+Este repositorio encontraréis los materiales y contenidos del ciclo formativo en Ciencia de Datos con R, que forman parte del Plan de Formación del IECA.
+
 Para acceder a cada curso, se ha diseñado una wiki que te dará acceso a los materiales y contenidos de cada curso. A continuación, una breve descripción de los contenidos que encontraréis en cada uno de ellos.
 
 
@@ -10,7 +11,7 @@ Este curso se impartió en el IECA (Instituto de Estadística y Cartografía de 
 
 En este curso se 
 
-Para acceder a los contenidos del mismo, dirígete a la wiki correspondiente: [**Wiki Curso al lenguaje de programación R**](https://github.com/joaplaro/Cursos-IECA/wiki/Tratamiento-de-datos-y-programaci%C3%B3n-con-R)
+Para acceder a los contenidos del mismo, dirígete a la wiki correspondiente: [**Wiki Curso Introducción al lenguaje de programación R**](https://github.com/joaplaro/Cursos-IECA/wiki/Tratamiento-de-datos-y-programaci%C3%B3n-con-R)
 
 ## Curso "Tratamiento de conjuntos de datos y programación con R"
 
